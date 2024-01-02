@@ -1,0 +1,2 @@
+take string char
+crt+j --> sout
